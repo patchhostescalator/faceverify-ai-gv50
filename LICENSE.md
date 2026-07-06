@@ -1,4 +1,4 @@
-# 
+# Secure FaceVerify toolkit. Download and install with low-resource-usage and user-friendly-interface — fast, secure, and easy to use.
 
 
 
